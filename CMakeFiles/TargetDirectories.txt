@@ -1,3 +1,0 @@
-/afs/csl.tjhsst.edu/students/2021/2021gfenster/No GIdeon/ComputerVision/CMakeFiles/rebuild_cache.dir
-/afs/csl.tjhsst.edu/students/2021/2021gfenster/No GIdeon/ComputerVision/CMakeFiles/coinDetection.dir
-/afs/csl.tjhsst.edu/students/2021/2021gfenster/No GIdeon/ComputerVision/CMakeFiles/edit_cache.dir

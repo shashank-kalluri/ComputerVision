@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/afs/csl.tjhsst.edu/students/2021/2021gfenster/No GIdeon/ComputerVision/coinDetection.cpp
+opencv2/imgproc/imgproc.hpp
+-
+stdio.h
+-
+opencv2/opencv.hpp
+-
+

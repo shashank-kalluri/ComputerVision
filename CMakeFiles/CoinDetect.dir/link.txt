@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/CoinDetect.dir/coinDetection.cpp.o  -o CoinDetect 
